@@ -1,4 +1,3 @@
-import numpy as np
 import pytest
 
 from bayyina.bm25 import BM25Index
